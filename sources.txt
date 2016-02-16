@@ -1,0 +1,3 @@
+1. http://www.theverge.com/2016/2/9/10956774/amazon-lumberyard-terms-of-service-zombie-clause
+
+2. http://answers.unity3d.com/questions/46745/how-do-i-find-the-frames-per-second-of-my-game.html - FRAMERATE
